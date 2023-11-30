@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    background-color: floralwhite;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+}
+#botao {
+    border: 5px solid pink;
+    color: palevioletred;
+    background-color: white;
+    height: 150px;
+    width: 500px;
+    font-size: 35px;
+}
+
+#texto {
+    color:palevioletred ;
+    font-size: 40px;
+}
+
+#botao2 {
+    border: 5px solid palevioletred;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    font-size: 30px;
+    font-weight: bolder;
+    color:palevioletred ;
+    background-color: pink;
+}
+#botao3 {
+    margin: 10px;
+    border: 5px solid palevioletred;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    font-size: 30px;
+    font-weight: bolder;
+    color:palevioletred ;
+    background-color: pink;
+}
+
+#texto2 {
+    color:palevioletred ;
+    font-size: 40px;
+}
